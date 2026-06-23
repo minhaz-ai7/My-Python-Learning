@@ -1,0 +1,9 @@
+{
+    "student_name": "Rahim",
+    "id": 101,
+    "skills": [
+        "Python",
+        "Data Analysis"
+    ],
+    "is_graduated": false
+}

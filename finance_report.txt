@@ -1,0 +1,48 @@
+======================================================================
+PERSONAL FINANCE REPORT
+======================================================================
+Generated: 2026-04-14 14:48:18
+
+SUMMARY
+----------------------------------------------------------------------
+Total Income:     123,000 Tk
+Total Expense:    57,000 Tk
+Balance:          66,000 Tk
+Transactions:     18
+
+EXPENSE BREAKDOWN
+----------------------------------------------------------------------
+Bills               :     24,000 Tk ( 42.1%)
+Food                :     11,000 Tk ( 19.3%)
+Shopping            :     11,000 Tk ( 19.3%)
+Entertainment       :      4,500 Tk (  7.9%)
+Transport           :      4,000 Tk (  7.0%)
+Health              :      2,500 Tk (  4.4%)
+
+INCOME BREAKDOWN
+----------------------------------------------------------------------
+Salary              :    100,000 Tk
+Freelance           :     23,000 Tk
+
+ALL TRANSACTIONS
+----------------------------------------------------------------------
+Date         Type       Category              Amount Description
+----------------------------------------------------------------------
+2024-01-01   income     Salary          +    50,000 Tk January salary
+2024-01-15   income     Freelance       +    15,000 Tk Web development project
+2024-01-05   expense    Bills           -    12,000 Tk House rent
+2024-01-07   expense    Food            -     3,500 Tk Groceries
+2024-01-08   expense    Transport       -     2,000 Tk Monthly bus pass
+2024-01-12   expense    Entertainment   -     1,500 Tk Movie and dinner
+2024-01-18   expense    Shopping        -     5,000 Tk New phone case and accessories
+2024-01-20   expense    Food            -       800 Tk Restaurant
+2024-01-22   expense    Health          -     2,500 Tk Medicine and checkup
+2024-01-25   expense    Food            -     1,200 Tk Groceries
+2024-02-01   income     Salary          +    50,000 Tk February salary
+2024-02-10   income     Freelance       +     8,000 Tk Logo design
+2024-02-05   expense    Bills           -    12,000 Tk House rent
+2024-02-08   expense    Food            -     4,000 Tk Groceries
+2024-02-09   expense    Transport       -     2,000 Tk Monthly bus pass
+2024-02-14   expense    Shopping        -     6,000 Tk Clothes
+2024-02-16   expense    Entertainment   -     3,000 Tk Concert tickets
+2024-02-20   expense    Food            -     1,500 Tk Restaurant

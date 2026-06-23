@@ -1,0 +1,19 @@
+id,date,type,category,amount,description
+1,2024-01-01,income,Salary,50000,January salary
+2,2024-01-15,income,Freelance,15000,Web development project
+3,2024-01-05,expense,Bills,12000,House rent
+4,2024-01-07,expense,Food,3500,Groceries
+5,2024-01-08,expense,Transport,2000,Monthly bus pass
+6,2024-01-12,expense,Entertainment,1500,Movie and dinner
+7,2024-01-18,expense,Shopping,5000,New phone case and accessories
+8,2024-01-20,expense,Food,800,Restaurant
+9,2024-01-22,expense,Health,2500,Medicine and checkup
+10,2024-01-25,expense,Food,1200,Groceries
+11,2024-02-01,income,Salary,50000,February salary
+12,2024-02-10,income,Freelance,8000,Logo design
+13,2024-02-05,expense,Bills,12000,House rent
+14,2024-02-08,expense,Food,4000,Groceries
+15,2024-02-09,expense,Transport,2000,Monthly bus pass
+16,2024-02-14,expense,Shopping,6000,Clothes
+17,2024-02-16,expense,Entertainment,3000,Concert tickets
+18,2024-02-20,expense,Food,1500,Restaurant

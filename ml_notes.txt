@@ -1,0 +1,7 @@
+Machine Learning Notes
+==============================
+Day 1: Python Basics
+Day 2: Lists and Loops
+Day 3: Functions
+Day 4: Dictionaries
+Day 5: File Handling

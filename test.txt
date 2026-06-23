@@ -1,0 +1,2 @@
+hello Minhaz!
+welcome too python file handling.

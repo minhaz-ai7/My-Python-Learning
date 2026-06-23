@@ -1,0 +1,50 @@
+============================================================
+CLASS PERFORMANCE REPORT
+============================================================
+Generated: 2026-04-14 14:37:46
+
+Total Students: 5
+Class Average: 81.96
+
+Grade Distribution:
+  A+: 1 students
+  A: 2 students
+  B: 1 students
+  C: 1 students
+  F: 0 students
+
+------------------------------------------------------------
+INDIVIDUAL STUDENT DETAILS
+------------------------------------------------------------
+
+1. Alice Rahman (Roll: 101)
+   Marks: {'Math': 85, 'Physics': 92, 'Chemistry': 78, 'Biology': 88, 'English': 90}
+   Total: 433, Average: 86.60
+   Grade: A
+
+2. Bob Ahmed (Roll: 102)
+   Marks: {'Math': 75, 'Physics': 68, 'Chemistry': 82, 'Biology': 79, 'English': 71}
+   Total: 375, Average: 75.00
+   Grade: B
+
+3. Carol Hasan (Roll: 103)
+   Marks: {'Math': 95, 'Physics': 98, 'Chemistry': 92, 'Biology': 96, 'English': 94}
+   Total: 475, Average: 95.00
+   Grade: A+
+
+4. David Khan (Roll: 104)
+   Marks: {'Math': 65, 'Physics': 58, 'Chemistry': 72, 'Biology': 68, 'English': 62}
+   Total: 325, Average: 65.00
+   Grade: C
+
+5. Eve Islam (Roll: 105)
+   Marks: {'Math': 88, 'Physics': 85, 'Chemistry': 90, 'Biology': 87, 'English': 91}
+   Total: 441, Average: 88.20
+   Grade: A
+
+------------------------------------------------------------
+TOP 3 STUDENTS
+------------------------------------------------------------
+1. Carol Hasan - Average: 95.00
+2. Eve Islam - Average: 88.20
+3. Alice Rahman - Average: 86.60
